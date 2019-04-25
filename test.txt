@@ -25,3 +25,5 @@ cs
 
 nihgao  
 dev ·Özhi 
+
+Creating a new branch is quick & simple.
